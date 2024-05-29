@@ -6,4 +6,4 @@ A construção do dashboard e o inicio da análise, se deu ao entender um pouco 
 
 Essa análise de dados foi realizada a partir de um conjunto de dados coletados no site 'www.kaggle.com'.
 
-O arquivo com a análise completo esta no jupyter notebook acima.
+<B>O arquivo com a análise completo esta no jupyter notebook acima.</B>
